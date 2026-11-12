@@ -11,3 +11,11 @@
   nachgesehen hast.
 - Beende jeden Lauf mit drei Überschriften: Blockiert durch mich,
   Geändert, Gefunden.
+
+## Skills
+
+- Bei jeder Arbeit an Webseiten, Frontend oder Design (bauen, umgestalten, prüfen, Texte
+  auf Seiten) lädst du zuerst den Skill `design-taste-frontend` und arbeitest nach ihm.
+- Vorgaben in der `.claude/CLAUDE.md` des Projekts (Farben, Schriften, bestehender Stil)
+  gehen vor. Bei einem Widerspruch sag kurz, welche Regel du befolgt hast.
+- Ist der Skill nicht verfügbar, sag das gleich am Anfang.

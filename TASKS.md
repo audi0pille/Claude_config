@@ -7,4 +7,7 @@
 - [ ] Testsitzung: Regeln kommen in einer neuen Sitzung an
 - [ ] `CLAUDE.md` im Hauptordner von `sonictides` wieder entfernt
 - [x] Skill `design-taste-frontend` unter `skills/` abgelegt
-- [ ] Setup-Skript kopiert `skills/` beim Sitzungsstart nach `~/.claude/skills/`
+- [x] `setup.sh` geschrieben: kopiert CLAUDE.md und `skills/` nach `~/.claude/`
+- [x] Regel in CLAUDE.md: Taste Skill bei Webseiten-Arbeit immer laden
+- [ ] Setup-Skript der Umgebung „sonictides" ruft `setup.sh` auf
+- [ ] Setup-Skript der Umgebung „Default" ruft `setup.sh` auf
