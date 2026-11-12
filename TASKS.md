@@ -1,8 +1,8 @@
 # Einrichtung gemeinsame Claude-Konfiguration
 
-- [x] Privates Repo `Claude_config` angelegt
+- [x] Repo `Claude_config` angelegt (öffentlich)
 - [x] Allgemeine `CLAUDE.md` abgelegt
-- [ ] Repo in der Umgebung „sonictides" unter „Repositories" eingetragen
-- [ ] Setup-Skript in der Umgebung „sonictides" gespeichert
+- [x] Setup-Skript in der Umgebung „Default" gespeichert
+- [ ] Setup-Skript auch in der Umgebung „sonictides" gespeichert
 - [ ] Testsitzung: Regeln kommen in einer neuen Sitzung an
 - [ ] `CLAUDE.md` im Hauptordner von `sonictides` wieder entfernt
